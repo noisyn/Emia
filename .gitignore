@@ -1,0 +1,4 @@
+*.pyc
+*.env
+testing.py
+testing2.py
